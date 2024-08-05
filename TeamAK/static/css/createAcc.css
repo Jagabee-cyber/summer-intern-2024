@@ -1,0 +1,341 @@
+.CreateAccountPage{
+    width: 1280px; 
+    height: 1060px; 
+    position: relative; 
+    background: linear-gradient(180deg, white 19%, #ABEEFF 50%, #9BEAFD 100%); 
+    overflow: hidden
+}
+
+.Login{
+    width: 440px; 
+    height: 670px; 
+    left: 418px; 
+    top: 186px; 
+    position: absolute; 
+    background: #62C4DB; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+
+.ArrowRight{
+    width: 20px; 
+    height: 20px; 
+    left: 1112px; 
+    top: 214px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.CreateAPassword{
+    left: 452px; 
+    top: 600px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 600; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.CreateAUsername{
+    left: 452px; 
+    top: 491px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: "Roboto", sans-serif;  
+    font-weight: 600; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.EnterYourEmail{
+    left: 452px; 
+    top: 381px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: "Roboto", sans-serif;  
+    font-weight: 600; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.CreateAnAccountAndBeginYourAdventureWithHopeKidsCyberClassroom{
+    width: 295px; 
+    left: 492px; 
+    top: 315px; 
+    position: absolute; 
+    text-align: center; 
+    color: #ECF4F5; 
+    font-size: 14.9px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 400; 
+    line-height: 18px; 
+    word-wrap: break-word
+}
+
+.Hopekcc{
+    width: 361px; 
+    height: 124px; 
+    left: 458px; 
+    top: 229px; 
+    position: absolute; 
+    text-align: center; 
+    color: #ECF4F5; 
+    font-size: 70px; 
+    font-family: "Roboto", sans-serif;  
+    font-weight: 700; 
+    line-height: 84px; 
+    word-wrap: break-word
+}
+
+.Footer{
+    width: 1348px; 
+    height: 185px; 
+    left: -25px; 
+    top: 891px; 
+    position: absolute; 
+    background: #FBFEFF
+}
+
+.Linkedin{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 2px; 
+    padding-bottom: 3px; 
+    padding-left: 2px; 
+    padding-right: 2px; 
+    left: 1143px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Youtube{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 4px;
+    padding-bottom: 4.54px; 
+    padding-left: 1px; 
+    padding-right: 1px; 
+    left: 1183px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Facebook{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 1px; 
+    padding-bottom: 2px; 
+    padding-left: 2px; 
+    padding-right: 6px; 
+    left: 1103px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Instagram{
+    width: 24px; 
+    height: 24px; 
+    padding: 2px; 
+    left: 1070px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Contact{
+    left: 840px; 
+    top: 923px; 
+    position: absolute; 
+    text-align: center; 
+    color: #53C7E2; 
+    font-size: 24px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 700; 
+    line-height: 28.80px; 
+    word-wrap: break-word
+}
+
+.InfoHopekccOrg{
+    left: 828px; 
+    top: 966px; 
+    position: absolute; 
+    text-align: center; 
+    color: #62C4DB; 
+    font-size: 20px; 
+    font-family: "Roboto", sans-serif;  
+    font-weight: 500; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.ConnectWithUs{
+    left: 1047px; 
+    top: 923px; 
+    position: absolute; 
+    text-align: center; 
+    color: #53C7E2; 
+    font-size: 24px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 700; 
+    line-height: 28.80px; 
+    word-wrap: break-word
+}
+
+.HopekccBigLogo{
+    width: 403px; 
+    height: 191px; 
+    left: 22px; 
+    top: 881px; 
+    position: absolute
+}
+
+.AlreadyHaveAnAccountLogIn{
+    width: 306px; 
+    height: 58px; 
+    left: 490px; 
+    top: 775px; 
+    position: absolute; 
+    text-align: center
+}
+
+.CreateAccButton{
+    width: 345px; 
+    height: 48px; 
+    left: 464px; 
+    top: 709px; 
+    position: absolute
+}
+
+.createButton{
+    width: 345px; 
+    height: 48px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #39A6BE; 
+    border-radius: 2px; 
+    border: 1px #2996AE solid
+}
+
+.createButton:hover{
+    background-color: #2996AE;
+}
+
+.CreateAccount{
+    left: 90px; 
+    top: 12px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 20px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 500; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.CreateUserButon{
+    width: 376px; 
+    height: 28px; 
+    left: 452px; 
+    top: 528px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.CreatePasswButton{
+    width: 376px; 
+    height: 28px; 
+    left: 452px; 
+    top: 637px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.EnterEmailButton{
+    width: 376px; 
+    height: 28px; 
+    left: 452px; 
+    top: 423px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.User{
+    width: 376px; 
+    height: 28px; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.createText{
+    width: 376px; 
+    height: 28px; 
+    background: #62C4DB; 
+    border-radius: 8px; 
+    border: 1px #D5E9FC solid;
+    color: white
+}
+
+.createText:focus{
+    outline:none;
+    border-color: #2996AE
+}
+
+.NavBar{
+    width: 1280px; 
+    height: 153px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #62C4DB
+}
+
+.HopekccSmallLogo{
+    width: 137px; 
+    height: 128.87px; 
+    left: 22px; 
+    top: 11px; 
+    position: absolute
+}
+
+.HopekccTop{
+    width: 272px; 
+    height: 37px; 
+    left: 153px; 
+    top: 56px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 50px; 
+    font-family: "Roboto", sans-serif; 
+    font-weight: 700; 
+    line-height: 60px; 
+    word-wrap: break-word
+}
