@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="/static/css/login.css?{% now "U" %}" rel="stylesheet"/>
+    <title>HopeKCC</title>
+  </head>
+  {% load static %}
+
+<body>
+<div class="LoginPage">     
+</div>
+
+    <div class="LoginBox"></div>
+    <div class="User" style="width: 361px; height: 58px; left: 458px; top: 418px; position: absolute">
+      <input type="text" class="createText">
+    <div class="UsernameOrEmail">Username or Email</div> 
+    <div class="Person" style="width: 34px; height: 32px; padding-left: 5.67px; padding-right: 5.67px; padding-top: 5.33px; padding-bottom: 5.33px; left: 6px; top: 13px; position: absolute; justify-content: center; align-items: center; display: inline-flex"></div>
+      <div class="Icon" style="width: 22.67px; height: 21.33px"></div>
+    </div>
+      
+    <div class="Line3" style="width: 139px; height: 0px; left: 673px; top: 693px; position: absolute; border: 1px #D9DAE2 solid"></div>
+    <div class="LogIn">Log In</div> 
+    <div class="Or">OR</div> 
+    <div class="WelcomeToHopeKidsCyberClassroomLoginToAccessYourResources">Welcome to Hope Kids Cyber Classroom!<br/>Login to access your resources.</div> 
+    <div class="Hopekcc">HopeKCC</div>
+    <div class="Footer"></div> 
+    </div>
+    <div class="LoginButton1">
+      <div class="LoginButton2">
+      <div class="LogIn">LOG IN</div> 
+      </div>
+    </div>
+
+    <a href="{% url 'createAcc' %}">
+        <div class="CreateAnAccButton" style="width: 345px; height: 48px; left: 467px; top: 742px; position: absolute">
+            <div class="CreateAccButton2" >
+                <div class="CreateAnAccount">CREATE AN ACCOUNT</div> 
+            </div>
+        </div>
+    </a>
+    
+    <div class="Linkedin">
+        <div class="Icon" style="width: 20px; height: 19px;">
+          <a href="http://linkedin.com/company/hopekcc" target="_blank"><img src="{% static 'createAccImg/linkedin.png'%}" style="width: 20px; height:20px" /></a>
+        </div>
+      </div>
+      <div class="Youtube">
+        <div class="Icon" style="width: 22px; height: 15.46px;">
+          <a href="http://youtube.com/@HopeKCC" target="_blank"><img src="{% static 'createAccImg/youtube.png'%}" style="width: 20px; height:15px" /></a>
+        </div>
+      </div>
+      <div class="Facebook">
+        <div class="Icon" style="width: 11px; height: 15.46px;">
+          <a href="http://facebook.com/profile.php?id=61558063464286" target="_blank"><img src="{% static 'createAccImg/facebook.png'%}" style="width: 20px; height:20px" /></a>
+        </div>
+      </div>
+      <div class="Instagram">
+        <div class="Icon" style="width: 20px; height: 20px;">
+          <a href="http://instagram.com/hopekccinc/" target="_blank"><img src="{% static 'createAccImg/instagram.png'%}" style="width: 20px; height:20px" /></a>
+        </div>
+      </div>
+
+    <div class="Contact">Contact</div>
+    <div class="InfoHopekccOrg">info@hopekcc.org</div> 
+    <div class="ConnectWithUs">Connect With Us!<br/></div>
+
+    <div class="Password" style="width: 361px; height: 58px; left: 458px; top: 501px; position: absolute">
+      <div class="Password" style="width: 361px; height: 58px; left: 0px; top: 0px; position: absolute; background: #62C4DB; border-radius: 10px; border: 1px #D5E9FC solid"></div>
+       <input type="password" class="createText">
+      <div class="Lock" style="width: 24px; height: 24px; padding-left: 3px; padding-right: 3px; padding-top: 2px; padding-bottom: 2px; left: 9px; top: 17px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Icon" style="width: 18px; height: 20px"></div>
+      </div>
+      <div class="Password">Password</div> 
+    </div>
+
+    <img class="HopekccBigLogo" src="{% static 'createAccImg/hopekcclogo.png'%}" />
+    <div class="Line2" style="width: 139px; height: 0px; left: 467px; top: 693px; position: absolute; border: 1px #D9DAE2 solid"></div>
+    <div class="NavBar" style="width: 1280px; height: 153px; left: 0px; top: 0px; position: absolute; background: #62C4DB"></div>
+    <img class="HopekccSmallLogo" src="{% static 'createAccImg/hopekccnavbarlogo.png'%}" />
+    <div class="Hopekcctop">HopeKCC</div>
+  </div>
+</body>
