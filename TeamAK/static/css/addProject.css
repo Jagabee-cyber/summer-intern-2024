@@ -1,0 +1,169 @@
+.Linkedin{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 2px; 
+    padding-bottom: 3px; 
+    padding-left: 2px; 
+    padding-right: 2px; 
+    left: 1143px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Youtube{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 4px;
+    padding-bottom: 4.54px; 
+    padding-left: 1px; 
+    padding-right: 1px; 
+    left: 1183px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Facebook{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 1px; 
+    padding-bottom: 2px; 
+    padding-left: 2px; 
+    padding-right: 6px; 
+    left: 1103px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Instagram{
+    width: 24px; 
+    height: 24px; 
+    padding: 2px; 
+    left: 1070px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.HopekccSmallLogo{
+    width: 137px; 
+    height: 128.87px; 
+    left: 22px; 
+    top: 11px; 
+    position: absolute
+}
+
+.HopekccBigLogo{
+    width: 403px; 
+    height: 191px; 
+    left: 22px; 
+    top: 881px; 
+    position: absolute
+}
+
+.UserIcon{
+    width: 100px;
+    height:100px
+}
+
+.MainPage{
+    width: 1280px; 
+    height: 1060px; 
+    position: relative; 
+    background: linear-gradient(180deg, white 19%, #ABEEFF 50%, #9BEAFD 100%); 
+    overflow: hidden
+}
+
+.Hopemascot1{
+    width: 155px; 
+    height: 140px; 
+    left: 390px; 
+    top: 140px; 
+    position: absolute
+}
+
+.ChooseFiles{
+    width: 235px; 
+    left: 0px; 
+    top: 4px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E8F8FB; 
+    font-size: 18px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 500; 
+    line-height: 21.60px; 
+    word-wrap: break-word
+}
+
+.Button2{
+    width: 115px; 
+    height: 16px; 
+    padding: 12px; 
+    background: #62C4DB; 
+    border: 1px #217D91 solid; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 8px; 
+    display: flex
+}
+
+.Button2:hover{
+    background: #2996AE
+}
+
+.ChooseFile{
+    width: 235px; 
+    left: 0px; 
+    top: 5px; 
+    position: absolute; 
+    text-align: center; 
+    color: #E8F8FB; 
+    font-size: 18px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 500; 
+    line-height: 21.60px; 
+    word-wrap: break-word
+}
+
+.ChooseFile:hover{
+    background: #2996AE
+}
+
+.Submit{
+    left: 137px; 
+    top: 12px; 
+    position: absolute; 
+    text-align: center; 
+    color: #125565; 
+    font-size: 20px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 400; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.LoginButton{
+    width: 345px; 
+    height: 48px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(270deg, #E7EDA7 0%, #7CCFE1 50%, #30A2BC 100%); 
+    border-radius: 2px; 
+    border: 1px #2996AE solid
+}
+
+.LoginButton:hover{
+    background: #2996AE
+}

@@ -6,3 +6,6 @@ def login(request):
 
 def createAccount(request):
     return render(request, "createAcc.html")
+
+def addProject(request):
+    return render(request, "addProject.html")
