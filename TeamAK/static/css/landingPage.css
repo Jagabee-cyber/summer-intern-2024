@@ -1,0 +1,102 @@
+.Linkedin{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 2px; 
+    padding-bottom: 3px; 
+    padding-left: 2px; 
+    padding-right: 2px; 
+    left: 1143px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+  }
+  
+  .Youtube{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 4px;
+    padding-bottom: 4.54px; 
+    padding-left: 1px; 
+    padding-right: 1px; 
+    left: 1183px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+  }
+  
+  .Facebook{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 1px; 
+    padding-bottom: 2px; 
+    padding-left: 2px; 
+    padding-right: 6px; 
+    left: 1103px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+  }
+  
+  .Instagram{
+    width: 24px; 
+    height: 24px; 
+    padding: 2px; 
+    left: 1070px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+  }
+
+  .HopekccBigLogo {
+    width: 403px;
+    height: 191px; 
+    left: 22px;
+     top: 881px; 
+     position: absolute
+  }
+
+  .HopekccSmallLogo {
+    width: 137px; 
+    height: 128.87px; 
+    left: 22px; 
+    top: 11px; 
+    position: absolute
+  }
+
+ .Accessgithubrect {
+  width: 517px;
+  height: 350px; 
+  left: 90px;
+  top: 342px; 
+  position: absolute; 
+  background: #62C4DB; 
+  border-radius: 10px; 
+  border: 3px #13748A solid
+ }
+
+ .Accessgithubrect:hover {
+  background-color: #21a6c4
+ }
+
+ .Accesstutorialsrect {
+  width: 517px; 
+  height: 350px; 
+  left: 673px; 
+  top: 342px; 
+  position: absolute; 
+  background: #62C4DB; 
+  border-radius: 10px; 
+  border: 3px #13748A solid
+ }
+
+ .Accesstutorialsrect:hover {
+  background-color: #21a6c4
+ }
