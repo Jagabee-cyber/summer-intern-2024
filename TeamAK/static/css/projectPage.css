@@ -1,0 +1,165 @@
+.Linkedin{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 2px; 
+    padding-bottom: 3px; 
+    padding-left: 2px; 
+    padding-right: 2px; 
+    left: 1143px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Youtube{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 4px;
+    padding-bottom: 4.54px; 
+    padding-left: 1px; 
+    padding-right: 1px; 
+    left: 1183px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Facebook{
+    width: 24px; 
+    height: 24px; 
+    padding-top: 1px; 
+    padding-bottom: 2px; 
+    padding-left: 2px; 
+    padding-right: 6px; 
+    left: 1103px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+
+.Instagram{
+    width: 24px; 
+    height: 24px; 
+    padding: 2px; 
+    left: 1070px; 
+    top: 963px; 
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
+.HopekccSmallLogo{
+    width: 137px; 
+    height: 128.87px; 
+    left: 22px; 
+    top: 11px; 
+    position: absolute
+}
+
+.HopekccBigLogo{
+    width: 403px; 
+    height: 191px; 
+    left: 22px; 
+    top: 881px; 
+    position: absolute
+}
+
+.UserIcon{
+    width: 100px;
+    height:100px
+}
+
+.LoginButton {
+    width: 195px; 
+    height: 48px; 
+    left: 0px;
+    top: 0px; 
+    position: absolute; 
+    background: linear-gradient(270deg, #E7EDA7 0%, #7CCFE1 50%, #30A2BC 100%); 
+    border-radius: 2px;
+    border: 1px #2996AE solid
+}
+
+.LoginButton:hover {
+    background: #2996AE
+}
+
+.Submit {
+    left: 42.43px;
+    top: 12px; 
+    position: absolute; 
+    text-align: center; 
+    color: #125565; 
+    font-size: 20px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 400; 
+    line-height: 24px; 
+    word-wrap: break-word
+}
+
+.Submit:hover {
+    background: #2996AE
+}
+
+.HomeLabel {
+    width: 164px; 
+    height: 39px;
+    left: 736px; 
+    top: 82px;
+    position: absolute; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 400; 
+    line-height: 24px;
+    letter-spacing: 0.50px;
+    word-wrap: break-word
+  }
+  
+  .HomeLabel:hover {
+  color:#2996AE
+  }
+  
+  .SubmissionsLabel {
+    width: 186px;
+    height: 39px; 
+    left: 848px;
+    top: 82px;
+    position: absolute; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Roboto, sans-serif;
+    font-weight: 400; 
+    line-height: 24px; 
+    letter-spacing: 0.50px; 
+    word-wrap: break-word
+  }
+  
+  .SubmissionsLabel:hover {
+    color:#2996AE
+  }
+  
+  .GalleryLabel {
+  width: 164px;
+  height: 39px; 
+  left: 1050px; 
+  top: 82px; 
+  position: absolute;
+  color: white; 
+  font-size: 30px; 
+  font-family: Roboto, sans-serif; 
+  font-weight: 400; 
+  line-height: 24px; 
+  letter-spacing: 0.50px; 
+  word-wrap: break-word
+  }
+  
+  .GalleryLabel:hover {
+    color:#2996AE
+  }
