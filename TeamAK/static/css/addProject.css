@@ -223,3 +223,60 @@ word-wrap: break-word
 .GalleryLabel:hover {
   color:#2996AE
 }
+
+.HomeLabel {
+    width: 164px; 
+    height: 39px;
+    left: 736px; 
+    top: 82px;
+    position: absolute; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Roboto, sans-serif; 
+    font-weight: 400; 
+    line-height: 24px;
+    letter-spacing: 0.50px;
+    word-wrap: break-word
+  }
+  
+  .HomeLabel:hover {
+  color:#2996AE
+  }
+  
+  .SubmissionsLabel {
+    width: 186px;
+    height: 39px; 
+    left: 848px;
+    top: 82px;
+    position: absolute; 
+    color: white; 
+    font-size: 30px; 
+    font-family: Roboto, sans-serif;
+    font-weight: 400; 
+    line-height: 24px; 
+    letter-spacing: 0.50px; 
+    word-wrap: break-word
+  }
+  
+  .SubmissionsLabel:hover {
+    color:#2996AE
+  }
+  
+  .GalleryLabel {
+  width: 164px;
+  height: 39px; 
+  left: 1050px; 
+  top: 82px; 
+  position: absolute;
+  color: white; 
+  font-size: 30px; 
+  font-family: Roboto, sans-serif; 
+  font-weight: 400; 
+  line-height: 24px; 
+  letter-spacing: 0.50px; 
+  word-wrap: break-word
+  }
+  
+  .GalleryLabel:hover {
+    color:#2996AE
+  }
